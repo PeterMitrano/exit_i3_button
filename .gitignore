@@ -1,0 +1,6 @@
+build
+*-info
+venv
+dist
+*.swp
+*.pyc
